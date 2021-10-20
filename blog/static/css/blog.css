@@ -1,0 +1,18 @@
+h1 a, h2 a {
+    color: green;
+}
+
+body {
+    padding-left: 20px;
+    font-family: 'Architects Daughter', cursive;
+}
+
+.gora {
+    background-image: linear-gradient(to right top, #053709, #236114, #488d1b, #75bc1c, #a8eb12);
+    margin-top: 0;
+    padding: 30px 30px 30px 50px;
+}
+
+.data {
+    color: grey;
+}
